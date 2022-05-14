@@ -1,58 +1,162 @@
 [
     {
         "id":1,
-        "img": "http://www.flipkart.com/autobiography-story-my-experiments-truth/p/itmdx9hfjnbzzkyn?pid=9788129117304&affid=INDhimanew",
+        "author":"Mahatma Gandhi",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/Myexperimentswithtruth.jpg",
         "title":" The Story Of My Experiments With The Truth",
-        "price":20,
+        "price": 10,
         "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
     },
     {
         "id":2,
-        "img": "http://www.flipkart.com/the-guide/p/itmdf872wxyta8sg?pid=9788185986074&affid=INDhimanew",
+        "author": "R.K Narayan",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/TheGuide.jpg",
         "title":"The Guide",
-        "price":20,
+        "price": 20,
         "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
     },
     {
         "id":3,
-        "img": "http://www.flipkart.com/the-guide/p/itmdf872wxyta8sg?pid=9788185986074&affid=INDhimanew",
-        "title":"The Guide",
-        "price":20,
+        "author": "Rohinton Mistry",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/A_Fine_Balance.jpg",
+        "title":"A Fine Balance",
+        "price": 30,
         "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
     },
     {
         "id":4,
-        "img": "http://www.flipkart.com/the-guide/p/itmdf872wxyta8sg?pid=9788185986074&affid=INDhimanew",
-        "title":"The Guide",
-        "price":20,
+        "author": "Salman Rushdie",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/MidnightsChildren.jpg",
+        "title":"Midnight's Children",
+        "price": 40,
         "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
     },
     {
         "id":5,
-        "img": "http://www.flipkart.com/the-guide/p/itmdf872wxyta8sg?pid=9788185986074&affid=INDhimanew",
-        "title":"The Guide",
-        "price":20,
+        "author": "Jhumpa Lahiri",
+        "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/Interpreterofmaladiescover.jpg",
+        "title":"The Interpreter of Maldies",
+        "price": 15,
         "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
     },
     {
         "id":6,
-        "img": "http://www.flipkart.com/the-guide/p/itmdf872wxyta8sg?pid=9788185986074&affid=INDhimanew",
-        "title":"The Guide",
-        "price":20,
+        "author": "Vikram Seth",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/Asuitableboy.jpg",
+        "title":"A Suitable Boy",
+        "price": 25,
         "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
     },
     {
         "id":7,
-        "img": "http://www.flipkart.com/the-guide/p/itmdf872wxyta8sg?pid=9788185986074&affid=INDhimanew",
-        "title":"The Guide",
-        "price":20,
+        "author": "God of Small Things",
+        "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/god_of_small_things.jpg",
+        "title":"God of Small Things",
+        "price": 30,
         "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
     },
     {
         "id":8,
-        "img": "http://www.flipkart.com/the-guide/p/itmdf872wxyta8sg?pid=9788185986074&affid=INDhimanew",
-        "title":"The Guide",
-        "price":20,
+        "author": "Amitav Gosh",
+        "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/The_Glass_Palace.jpg",
+        "title":"The Glass Palace",
+        "price": 45,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+    },
+    {
+        "id": 9,
+        "author": "Kiran Desai",
+        "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/Inheritance_of_loss_cover-190x300.jpg",
+        "title":"The Inheritence of Loss",
+        "price": 55,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+    },
+    {
+        "id":10,
+        "author": "Mulk Raj Anand",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/Priate-life-of-prince-193x300.jpg",
+        "title":"The Private Life of an Indian Prince",
+        "price": 32,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+    },
+    {
+        "id": 11,
+        "author": "Vikram Chandra",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/red-earth-201x300.jpg",
+        "title":"Red Earth and Pouring Rain",
+        "price": 66,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+    },
+    {
+        "id": 12,
+        "author": "Suketu Mehta",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/Maximum_city.png",
+        "title":"Makimum City",
+        "price": 16,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+    },
+    {
+        "id": 13,
+        "author": "Rabindranath Tagore",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/gitanjali.jpg",
+        "title":"Gitanjali",
+        "price": 45,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+    },
+    {
+        "id": 14,
+        "author": "Mitra Phukan",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/Collectors-Wife-191x300.jpg",
+        "title":"The Collector's Wife",
+        "price": 25,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+    },
+    {
+        "id": 15,
+        "author": "Khushwant Singh",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/220px-Train_to_Pakistan.jpg",
+        "title":"Train to Pakistan",
+        "price": 37,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+    },
+    {
+        "id": 16,
+        "author": "Nayantra Sehgal",
+        "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/Rich_Like_Us_book_cover.jpg",
+        "title":"Rich Like Us",
+        "price": 17,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+    },
+    {
+        "id": 17,
+        "author": "Anita Desai",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/in-custody.jpeg",
+        "title":"In Custody",
+        "price": 45,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+    },
+    {
+        "id": 18,
+        "author": "Sunetra Gupta",
+        "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/glassblower.jpg",
+        "title":"The Glassblower's Breath",
+        "price": 56,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+    },
+    {
+        "id": 19,
+        "author": "A.K. Ramanujan",
+        "img": "https://en-media.thebetterindia.com/uploads/2014/06/collected-poems-ramanujan.jpeg",
+        "title":"The Collected Poems",
+        "price": 99,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+    },
+    {
+        "id": 20,
+        "author": "Niraj C. Chaudhuri",
+        "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/The-Autobiography-of-an-Unknown-Indian.jpg",
+        "title":"The Autobiography of an Unknown Indian",
+        "price": 45,
         "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
     }
 ]
