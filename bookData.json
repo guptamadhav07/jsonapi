@@ -1,162 +1,273 @@
 [
     {
         "id":1,
+        "category":"Indian Classics",
         "author":"Mahatma Gandhi",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/Myexperimentswithtruth.jpg",
         "title":" The Story Of My Experiments With The Truth",
         "price": 10,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": "If you want to know all about Gandhi and his journey, you cannot miss out on reading ‘My Experiments with the Truth’, his autobiography that covers his life from early childhood till 1921. The introduction mentions how Gandhi resumed writing at the insistence of a fellow prisoner at Yerwada Central jail. The autobiography was written as weekly journals and then compiled and published as a book. From his childhood memories, his experiments with eating meat, smoking, drinking and stealing to the demise of his father, the book captures many unknown instances of Gandhi’s life."
     },
     {
         "id":2,
+        "category":"Indian Classics",
         "author": "R.K Narayan",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/TheGuide.jpg",
         "title":"The Guide",
         "price": 20,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": "R.K Narayan is best known for stories based in and around the fictional village of Malgudi. The Guide is yet another story set up in Malgudi. R.K. Narayan won the Sahitya Akademi Award for the book in 1960. The Guide is the story of a tour guide who transforms himself into a spiritual Guru and then the greatest holy man of India. The book was also adapted as a film which starred the legendary actor Dev Anand."
     },
     {
         "id":3,
+        "category":"Indian Classics",
         "author": "Rohinton Mistry",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/A_Fine_Balance.jpg",
         "title":"A Fine Balance",
         "price": 30,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": "This is the second novel by Mistry published in 1995 and, like his first novel, Such A Long Journey, this novel too received wide acclaim across the globe. A fine balance revolves around various characters in Mumbai (then Bombay) during the time of turmoil and government emergencies. The story of friendship and love that progresses among the characters of the book will keep you hooked till the end."
     },
     {
         "id":4,
+        "category":"Indian Classics",
         "author": "Salman Rushdie",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/MidnightsChildren.jpg",
         "title":"Midnight's Children",
         "price": 40,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id":5,
+        "category":"Indian Classics",
         "author": "Jhumpa Lahiri",
         "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/Interpreterofmaladiescover.jpg",
         "title":"The Interpreter of Maldies",
         "price": 15,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": "Midnight’s Children portrays the journey of India from British rule to independence and then partition. The book received a great response, winning the Booker Prize in 1981 and the “Booker of Bookers” Prize (commemorating the best among all the Booker winners) twice – in 1993 and 2008! The book travels to various parts of the country including Kashmir, Agra and Mumbai and incorporates many actual historic events. The book was also included in the List of 100 Best Novels of all time."
     },
     {
         "id":6,
+        "category":"Indian Classics",
         "author": "Vikram Seth",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/Asuitableboy.jpg",
         "title":"A Suitable Boy",
         "price": 25,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id":7,
+        "category":"Indian Classics",
         "author": "God of Small Things",
         "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/god_of_small_things.jpg",
         "title":"God of Small Things",
         "price": 30,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id":8,
+        "category":"Indian Classics",
         "author": "Amitav Gosh",
         "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/The_Glass_Palace.jpg",
         "title":"The Glass Palace",
         "price": 45,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id": 9,
+        "category":"Indian Classics",
         "author": "Kiran Desai",
         "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/Inheritance_of_loss_cover-190x300.jpg",
         "title":"The Inheritence of Loss",
         "price": 55,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id":10,
+        "category":"Indian Classics",
         "author": "Mulk Raj Anand",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/Priate-life-of-prince-193x300.jpg",
         "title":"The Private Life of an Indian Prince",
         "price": 32,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id": 11,
+        "category":"Indian Classics",
         "author": "Vikram Chandra",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/red-earth-201x300.jpg",
         "title":"Red Earth and Pouring Rain",
         "price": 66,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id": 12,
+        "category":"Indian Classics",
         "author": "Suketu Mehta",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/Maximum_city.png",
         "title":"Makimum City",
         "price": 16,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id": 13,
+        "category":"Indian Classics",
         "author": "Rabindranath Tagore",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/gitanjali.jpg",
         "title":"Gitanjali",
         "price": 45,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id": 14,
+        "category":"Indian Classics",
         "author": "Mitra Phukan",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/Collectors-Wife-191x300.jpg",
         "title":"The Collector's Wife",
         "price": 25,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id": 15,
+        "category":"Indian Classics",
         "author": "Khushwant Singh",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/220px-Train_to_Pakistan.jpg",
         "title":"Train to Pakistan",
         "price": 37,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id": 16,
+        "category":"Indian Classics",
         "author": "Nayantra Sehgal",
         "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/Rich_Like_Us_book_cover.jpg",
         "title":"Rich Like Us",
         "price": 17,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id": 17,
+        "category":"Indian Classics",
         "author": "Anita Desai",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/in-custody.jpeg",
         "title":"In Custody",
         "price": 45,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id": 18,
+        "category":"Indian Classics",
         "author": "Sunetra Gupta",
         "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/glassblower.jpg",
         "title":"The Glassblower's Breath",
         "price": 56,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id": 19,
+        "category":"Indian Classics",
         "author": "A.K. Ramanujan",
         "img": "https://en-media.thebetterindia.com/uploads/2014/06/collected-poems-ramanujan.jpeg",
         "title":"The Collected Poems",
         "price": 99,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
     },
     {
         "id": 20,
+        "category":"Indian Classics",
         "author": "Niraj C. Chaudhuri",
         "img": "https://thebetterindia-static.gumlet.io/wp-content/uploads/2014/06/The-Autobiography-of-an-Unknown-Indian.jpg",
         "title":"The Autobiography of an Unknown Indian",
         "price": 45,
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sequi blanditiis cumque odit praesentium eligendi dolores, quia explicabo, aperiam voluptate incidunt impedit quos. Rerum suscipit asperiores nulla blanditiis, vel pariatur!"
+        "desc": ""
+    },
+    {
+        "id": 21,
+        "category":"Sci-Fi and Fantasy",
+        "author": "Satyajit Ray",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/Professor-Shonku-by-Satyajit-Ray.jpg",
+        "title":"Professor Shonku",
+        "price": 78,
+        "desc": "Professor Shonku is a fictional scientist created by Satyajit Ray in a series of Bengali science-fiction books published from 1965. His full name is Trilokeshwar Shonku, and by occupation, he is an inventor. Professor Shonku was translated into English by Sukanya Jhaveri in 1981."
+    },
+    {
+        "id": 22,
+        "category":"Sci-Fi and Fantasy",
+        "author": "Samit Basu",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/GameWorld-Trilogy-by-Samit-Basu.jpg",
+        "title":"Gameworld Trilogy",
+        "price": 98,
+        "desc": "Three books, The Simoqin Prophecies, The Manticore’s Secret and The Unwaba Revelations, form the three parts of The GameWorld Trilogy. The trilogy narrates the reawakening of the terrible rakshas, Danh-Gem, and the arrival of a hero to face him."
+    },
+    {
+        "id": 23,
+        "category":"Sci-Fi and Fantasy",
+        "author": "Anand Neelakantan",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/Sivagami-Series-by-Anand-Neelakantan.jpg",
+        "title":"The Rise of Sivgami",
+        "price": 45,
+        "desc": "Anand Neelakantan’s The Rise of Sivagami is a prequel to the epic Indian movie Bahubali: The Beginning. The story revolves around Sivagami, a character of Baahubali. It also tells the readers more about Kattappa, another important character of the story."
+    },
+    {
+        "id": 24,
+        "category":"Sci-Fi and Fantasy",
+        "author": "Indra Das",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/The-Devourers-by-Indra-Das.jpg",
+        "title":"The Devoures",
+        "price": 10,
+        "desc": "The Devourers is set during the reign of the Mughal Empire in the seventeenth century and extends to modern India. It features Shape-shifters, more specifically werewolves, and explores the concepts of love, cannibalism, and what it means to be human. It is told in a multi-layered manner, alternating between different time periods and perspectives."
+    },
+    {
+        "id": 25,
+        "category":"Sci-Fi and Fantasy",
+        "author": "Sukanya Venkatraghavan",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/Dark-Things-by-Sukanya-Venkatraghavan.jpg",
+        "title":"Dark Things",
+        "price": 41,
+        "desc": "Combining fantasy with the rich tapestry of folklore, Dark Things is a strange fairytale wrought of intrigue and enchantment, of shadows and secrets, of evil and those who battle it."
+    },
+    {
+        "id": 26,
+        "category":"Sci-Fi and Fantasy",
+        "author": "Shweta Taneja",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/Cult-of-Chaos-by-Shweta-Taneja.jpg",
+        "title":"Cult of Chaos",
+        "price": 36,
+        "desc": "Cult of Chaos is the story of Tantriks, who are now overground. They have their own council, police and justice systems. It narrates the story of Anantya Tantrik who struggles to stop the madness of White and Red Tantriks who are facing off, and of a Black tantric who is brewing some dangerous shakti."
+    },
+    {
+        "id": 27,
+        "category":"Sci-Fi and Fantasy",
+        "author": "Vikram Balgopal",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/Savage-Blue-by-Vikram-Balagopal.jpg",
+        "title":"Savage Blue",
+        "price": 16,
+        "desc": "Savage Blue by Vikram Balagopal is the story of two people – Akila Raina, who disappeared when she was only ten, and Shyam, who was with her that fateful night. Now twenty years later, Akila has mysteriously reappeared, grown-up and gorgeous. She tells him of surreal worlds, her travels between them and her encounters with strange creatures."
+    },
+    {
+        "id": 28,
+        "category":"Sci-Fi and Fantasy",
+        "author": "Shobha Nihalani",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/Nine-Trilogy-by-Shobha-Nihalani.jpg",
+        "title":"Nine Trilogy",
+        "price": 17,
+        "desc": ""
+    },
+    {
+        "id": 29,
+        "category":"Sci-Fi and Fantasy",
+        "author": "Aroon Raman",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/Skyfire-by-Aroon-Raman.jpg",
+        "title":"Skyfire",
+        "price": 78,
+        "desc": ""
+    },
+    {
+        "id": 30,
+        "category":"Sci-Fi and Fantasy",
+        "author": "Mainak Dhar",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/Alice-in-Deadland-Trilogy-by-Mainak-Dhar.jpg",
+        "title":"Alice in Deadland",
+        "price": 36,
+        "desc": ""
     }
+    
 ]
