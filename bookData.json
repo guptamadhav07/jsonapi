@@ -268,6 +268,96 @@
         "title":"Alice in Deadland",
         "price": 36,
         "desc": ""
+    },
+    {
+        "id": 31,
+        "category":"Romance",
+        "author": "Preeti Shenoy",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/The-One-You-Cannot-Have-by-Preeti-Shenoy.jpg",
+        "title":"The One You Cannot Have",
+        "price": 16,
+        "desc": ""
+    },
+    {
+        "id": 32,
+        "category":"Romance",
+        "author": "Ravinder Singh",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/I-Too-Had-a-Love-Story-by-Ravinder-Singh.jpg",
+        "title":"I Too Had A Love Story",
+        "price": 45,
+        "desc": ""
+    },
+    {
+        "id": 33,
+        "category":"Romance",
+        "author": "Savi Sharma",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/This-is-Not-Your-Story-by-Savi-Sharma.jpg",
+        "title":"This is not your Story",
+        "price": 9,
+        "desc": ""
+    },
+    {
+        "id": 34,
+        "category":"Romance",
+        "author": "Durjoy Datta",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/The-Girl-of-My-Dreams-by-Durjoy-Datta.jpg",
+        "title":"The Girl Of My Dreams",
+        "price": 43,
+        "desc": ""
+    },
+    {
+        "id": 35,
+        "category":"Romance",
+        "author": "Preeti Shenoy",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/It%E2%80%99s-All-in-the-Planets-by-Preeti-Shenoy.jpg",
+        "title":"It's All in the Planets",
+        "price": 78,
+        "desc": ""
+    },
+    {
+        "id": 36,
+        "category":"Romance",
+        "author": "Sudeep Nagarkar",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2017/03/Sorry-youre-not-my-type-e1490614316319.jpg",
+        "title":"Sorry You're Not My Type",
+        "price": 71,
+        "desc": ""
+    },
+    {
+        "id": 37,
+        "category":"Romance",
+        "author": "Anuja Chauhan",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/Those-Pricey-Thakur-Girls-by-Anuja-Chauhan.jpg",
+        "title":"Those Pricey Thakur Girls",
+        "price": 36,
+        "desc": ""
+    },
+    {
+        "id": 38,
+        "category":"Romance",
+        "author": "Chetan Bhagat",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2017/04/Two-States-Chetan-Bhagat.jpg",
+        "title":"2 States: The Story Of My Marriage",
+        "price": 36,
+        "desc": ""
+    },
+    {
+        "id": 39,
+        "category":"Romance",
+        "author": "Anurag Garg",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/A-Half-Baked-Love-Story-by-Anurag-Garg.jpg",
+        "title":"A Half - Baked Love Story",
+        "price": 24,
+        "desc": ""
+    },
+    {
+        "id": 40,
+        "category":"Romance",
+        "author": "Yashpdhara Lal",
+        "img": "https://www.bookgeeks.in/wp-content/uploads/2018/01/Just-Married-Please-Excuse-by-Yashodhara-Lal.jpg",
+        "title":"Just Married, Please Excuse",
+        "price": 13,
+        "desc": ""
     }
     
 ]
